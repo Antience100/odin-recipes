@@ -1,70 +1,70 @@
 /* Universal styles */
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-    background-color: #A37C40;
-    font-family: Verdana, Tahoma, sans-serif;
+  background-color: #a37c40;
+  font-family: Verdana, Tahoma, sans-serif;
 }
 
 #home-button {
-    margin-left: 12px;
-    padding-top: 8px;
+  margin-left: 12px;
+  padding-top: 8px;
 }
 
 /* Styles for index.html */
 #odin-recipe-list {
-    text-align: center;
+  text-align: center;
 }
 
 #odin-recipe-list h1 {
-    margin: 0 auto;
-    padding: 12px 12px;
-    color: #07090F;
+  margin: 0 auto;
+  padding: 12px 12px;
+  color: #07090f;
 }
 
 #odin-recipe-list ul {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 #odin-recipe-list a {
-    text-decoration: none;
-    color: #07090F;
+  text-decoration: none;
+  color: #07090f;
 }
 
 #odin-recipe-list a:hover {
-    color: #98473E;   
+  color: #98473e;
 }
 
 #odin-recipe-list a:active {
-    color: #D6C3C9
+  color: #d6c3c9;
 }
 
 #odin-recipe-list img {
-    border-radius: 10%;
+  border-radius: 10%;
 }
 
 .recipe {
-    padding-top: 12px;
+  padding-top: 12px;
 }
 
 /* Styles for pizza-dough.html */
 #pizza-dough-recipe {
-    margin-left: 24px;
-    padding: 12px;
-    text-align: left;
-    line-height: 1.5;
+  margin-left: 24px;
+  padding: 12px;
+  text-align: left;
+  line-height: 1.5;
 }
 
 /* Styles for sesame-chicken.html */
 #sesame-chicken-recipe {
-    margin-left: 24px;
-    padding: 12px;
-    text-align: left;
-    line-height: 1.5;
+  margin-left: 24px;
+  padding: 12px;
+  text-align: left;
+  line-height: 1.5;
 }
 
 /* Styles for chocolate-chip-cookies.html */
