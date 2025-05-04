@@ -1,4 +1,48 @@
 /* Styles for index.html */
 * {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
+
+body {
+    background-color: #A37C40;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+#odin-recipe-list {
+    text-align: center;
+}
+
+#odin-recipe-list h1 {
+    margin: 0 auto;
+    padding: 12px 12px;
+    color: #07090F;
+}
+
+#odin-recipe-list ul {
+    list-style-type: none;
+}
+
+#odin-recipe-list a {
+    text-decoration: none;
+    color: #07090F;
+}
+
+#odin-recipe-list a:hover {
+    color: #98473E;   
+}
+
+#odin-recipe-list a:active {
+    color: #D6C3C9
+}
+
+#odin-recipe-list img {
+    border-radius: 10%;
+}
+
+.recipe {
+    padding-top: 12px;
+}
+
+
