@@ -68,3 +68,9 @@ body {
 }
 
 /* Styles for chocolate-chip-cookies.html */
+#chocolate-chip-cookies-recipe {
+    margin-left: 24px;
+    padding: 12px;
+    text-align: left;
+    line-height: 1.5;
+}
