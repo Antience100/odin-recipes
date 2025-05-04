@@ -10,6 +10,11 @@ body {
     font-family: Verdana, Tahoma, sans-serif;
 }
 
+#home-button {
+    margin-left: 12px;
+    padding-top: 8px;
+}
+
 /* Styles for index.html */
 #odin-recipe-list {
     text-align: center;
@@ -47,7 +52,12 @@ body {
 }
 
 /* Styles for pizza-dough.html */
-
+#pizza-dough-recipe {
+    margin-left: 24px;
+    padding: 12px;
+    text-align: left;
+    line-height: 1.5;
+}
 
 /* Styles for sesame-chicken.html */
 
