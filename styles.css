@@ -1,4 +1,4 @@
-/* Styles for index.html */
+/* Universal styles */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -10,6 +10,7 @@ body {
     font-family: Verdana, Tahoma, sans-serif;
 }
 
+/* Styles for index.html */
 #odin-recipe-list {
     text-align: center;
 }
@@ -45,4 +46,10 @@ body {
     padding-top: 12px;
 }
 
+/* Styles for pizza-dough.html */
 
+
+/* Styles for sesame-chicken.html */
+
+
+/* Styles for chocolate-chip-cookies.html */
